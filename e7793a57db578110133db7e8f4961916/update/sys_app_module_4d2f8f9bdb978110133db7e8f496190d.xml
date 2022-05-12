@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Appuri_demo">412f0f9bdb978110133db7e8f4961995</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Appuri_demos</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_801006_appuri_appuri_demo</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_801006_appuri.appuri_demo_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-12 02:32:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4d2f8f9bdb978110133db7e8f496190d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Appuri_demos</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Appuri" source="x_801006_appuri">e7793a57db578110133db7e8f4961916</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Appuri">e7793a57db578110133db7e8f4961916</sys_scope>
+        <sys_update_name>sys_app_module_4d2f8f9bdb978110133db7e8f496190d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-12 02:32:24</sys_updated_on>
+        <timeline_page/>
+        <title>Appuri_demos</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
